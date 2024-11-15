@@ -1,0 +1,41 @@
+/* Estilo general para fondo y texto */
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  background-color: #ffc0cb;
+  background-image: url('https://www.transparenttextures.com/patterns/heart-wall.png');
+  font-family: Arial, sans-serif;
+}
+
+/* Contenedor centrado */
+.container {
+  text-align: center;
+}
+
+/* Estilo del título */
+#titulo {
+  font-family: Arial;
+  font-size: 3rem;
+  color: #ff69b4;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+/* Estilo del reloj */
+#reloj {
+  font-size: 2rem;
+  color: #ff1493;
+  margin-top: 20px;
+}
+
+/* Estilo para las imágenes de los gatos */
+.gato {
+  display: none;
+  width: 300px;
+  height: auto;
+  margin: 10px 0;
+}
