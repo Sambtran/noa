@@ -1,5 +1,5 @@
 // Lista de títulos
-const titulos = ["Título 1", "Hola", "¿Has visto la fecha que es?", "si, un mes ya", "desde una banda improvisada", "hasta un circuito de carreras", "nos hemos secado las lagrimas el uno al otro", "y se que alguna vez te hecho cabrear un poquito", "pero quiero que sepas","que me has hecho la persona mas feliz del mundo","y que espero que este sea el primer de infinitos meses mas","te quiero <3","porcierto tienes que ver naruto"];
+const titulos = ["Pulsa aqui", "Hola", "¿Has visto la fecha que es?", "si, un mes ya", "desde una banda improvisada", "hasta un circuito de carreras", "nos hemos secado las lagrimas el uno al otro", "y se que alguna vez te hecho cabrear un poquito", "pero quiero que sepas","que me has hecho la persona mas feliz del mundo","y que espero que este sea el primer de infinitos meses mas","te quiero <3","porcierto tienes que ver naruto"];
 
 let indice = 0;
 
