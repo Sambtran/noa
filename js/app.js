@@ -41,7 +41,7 @@ function actualizarReloj() {
   const fechaTexto = `${dia}/${mes}/${año}`;
 
   // Mostrar hora y fecha
-  reloj.textContent = `${horaTexto} - ${fechaTexto}`;
+  reloj.textContent = `${fechaTexto}`;
 }
 
 // Actualizar el reloj cada segundo
