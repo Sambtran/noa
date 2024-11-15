@@ -13,11 +13,13 @@ body {
 
 /* Contenedor centrado */
 .container {
+  user-select: none;
   text-align: center;
 }
 
 /* Estilo del título */
 #titulo {
+  user-select: none;
   font-family: Arial;
   font-size: 3rem;
   color: #ff69b4;
@@ -27,6 +29,7 @@ body {
 
 /* Estilo del reloj */
 #reloj {
+  font-family: Arial;
   font-size: 2rem;
   color: #ff1493;
   margin-top: 20px;
