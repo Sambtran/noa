@@ -9,16 +9,38 @@ body {
   background-color: #ffc0cb;
   background-image: url('https://www.transparenttextures.com/patterns/heart-wall.png');
   font-family: Arial, sans-serif;
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Old versions of Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+
 }
 
 /* Contenedor centrado */
 .container {
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Old versions of Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
   user-select: none;
   text-align: center;
+  -webkit-tap-highlight-color: transparent;
+
 }
 
 /* Estilo del título */
 #titulo {
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Old versions of Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  -webkit-tap-highlight-color: transparent;
+
   user-select: none;
   font-family: Arial;
   font-size: 3rem;
